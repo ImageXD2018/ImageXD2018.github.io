@@ -44,14 +44,14 @@ image:
 |:------------|:--------|
 | 8:30-9:00   | <span class="badge warning">Coffee</span>  |
 |----
-| 9:00-9:30   | Astronomy: Zhao/Kyle? |
-| 9:30-10:00  | Materials: Ajo Franklin |
-| 10:00-10:30 | Georgia Gkioxari  |
+| 9:00-9:30   | SKI: J.C.? (poc - Dani)|
+| 9:30-10:00  | Materials: Natalie Larson? |
+| 10:00-10:30 | Google: R.R.?  |
 |----
 | 10:30-10:50  | <span class="badge warning">Break</span>   |
 |----
-| 10:50-11:20  | Computational photography: (Maryana)   |
-| 11:20-11:50  | Mixed-scale: James Sethian (Dani)   |
+| 10:50-11:20  | Samsung: (poc - Maryana)   |
+| 11:20-11:50  | Satellite: Nancy (poc - Maryam)   |
 | 11:50-12:20  | John Canny: theme = deep net visualization, or interpretable driving models |
 |----
 | 12:20-12:45  | <span class="badge warning">Lunch</span>  |
