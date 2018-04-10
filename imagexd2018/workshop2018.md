@@ -44,7 +44,7 @@ image:
 |:------------|:--------|
 | 8:30-9:00   | <span class="badge warning">Coffee</span>  |
 |----
-| 9:00-9:30   | TBA |
+| 9:00-9:30   | Assistive technology for blind and visually impaired persons (Dr. James Coughlan -- Smith-Kettlewell Institute) |
 | 9:30-10:00  | TBA |
 | 10:00-10:30 | TBA |
 |----
